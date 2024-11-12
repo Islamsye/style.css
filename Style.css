@@ -1,4 +1,8 @@
-/* Global reset */
+body {
+    font-family: Arial, Helvetica, Sans-serif
+    margin: 40px;
+    color: #242424;
+    border-top: 10px solid#242424;
 * {
     margin: 0;
     padding: 0;
@@ -167,5 +171,8 @@ ul {
 }
 
 .multi-column-form button:hover {
-    background-color: #444;
+    background-color: #ffffff;
 }
+
+
+
